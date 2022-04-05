@@ -2,7 +2,7 @@
 
 The Problem is the following:
 
-![sleuthkitApprenticeProblem.png](.media/sleuthkitApprenticeProblem.png)
+![sleuthkitApprenticeProblem.png](./media/sleuthkitApprenticeProblem.png)
 
 ### Download & extract the image
 
